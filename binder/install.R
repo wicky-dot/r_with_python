@@ -14,3 +14,7 @@ install.packages(c("rmarkdown", "caTools", "bitops")) # for knitting
 
 ### install excel
 install.packages("readxl")
+
+### install missing imputation
+install.packages("mice")
+install.packages("VIM")
